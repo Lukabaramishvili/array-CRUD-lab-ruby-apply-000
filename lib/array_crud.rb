@@ -7,8 +7,8 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  new_food = "taco"
-  food << new_food
+  
+  food << element
 end
 
 def add_element_to_start_of_array(array, element)
